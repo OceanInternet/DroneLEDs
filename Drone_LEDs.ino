@@ -17,7 +17,7 @@ FASTLED_USING_NAMESPACE
 
 #define MOTOR1_DATA_PIN    2
 #define MOTOR2_DATA_PIN    3
-#define MOTOR3_DATA_PIN    6
+#define MOTOR3_DATA_PIN    4
 #define MOTOR4_DATA_PIN    5
 
 #define LED_TYPE         WS2811
